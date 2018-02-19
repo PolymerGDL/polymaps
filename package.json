@@ -1,0 +1,16 @@
+{
+  "name": "polymaps",
+  "flat": true,
+  "version": "1.0.0",
+  "description": "Example using polymer 3, google maps and slots",
+  "repository": "git@github.com:PolymerGDL/polymaps.git",
+  "author": "DezkaReid <elmaildeldezkareid@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.9",
+    "@webcomponents/webcomponentsjs": "^1.1.0"
+  },
+  "resolutions": {
+    "@webcomponents/webcomponentsjs": "1.1.0"
+  }
+}
